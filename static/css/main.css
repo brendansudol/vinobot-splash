@@ -1,0 +1,35 @@
+* {
+  box-sizing: border-box;
+}
+
+html {
+  min-height: 100%;
+  position: relative;
+}
+
+body {
+  font-family: -apple-system, BlinkMacSystemFont, helvetica, sans-serif;
+  font-size: 16px;
+  line-height: 1.5;
+  margin: 0;
+}
+
+.container {
+  max-width: 650px;
+}
+
+.bg-purple {
+  background-color: #6b42ff;
+}
+
+.h0 {
+  font-size: 3rem;
+}
+
+.mr-tiny {
+  margin-right: 4px;
+}
+
+.align-tb {
+  vertical-align: text-bottom;
+}
